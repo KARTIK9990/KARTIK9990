@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" style="width:100%; height:auto;">
+  <img src="/assets/images/Technology LinkedIn Banner in Blue White and Grey Modern Style.png" alt="Banner" style="width:100%; height:auto;">
 </p>
 <h1 align="center">Hi 👋, I'm Kartik Naik</h1>
 - 🌱 I’m currently studying **Machine Learning**
